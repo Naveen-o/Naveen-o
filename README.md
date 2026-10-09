@@ -10,9 +10,10 @@ I'm an Information Technology student interested in software development, proble
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Java, Python, SQL
-- **Backend:** Spring Boot, Flask, REST APIs
+- **Backend:** Spring Boot, FastAPI, REST APIs
 - **Databases:** MySQL, MongoDB, SQLite
 - **Tools:** Git, GitHub, Postman, Maven
+- **Other:** Spring Security, JWT, RabbitMQ
 
 ## 🚀 Projects
 
